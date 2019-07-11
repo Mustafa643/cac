@@ -1,14 +1,14 @@
-#CALCULATOR
+# CALCULATOR
 
-##AUTHOR
+## AUTHOR
 
-####Mustafa Ahmed
+#### Mustafa Ahmed
 
-###DESCRIPTION
+### DESCRIPTION
 
-####This system calculates Addition,Subtraction,
+#### This system calculates Addition,Subtraction,
 
-#####Division and Multiplication of two given numbers
+##### Division and Multiplication of two given numbers
 
 
-#####INSTALLATION
+##### INSTALLATION
